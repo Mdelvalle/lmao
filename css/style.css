@@ -1,4 +1,6 @@
 #phaser-lmao {
+  display: block;
+  margin: 0 auto;
   width: 320px;
   height: 480px;
   border: 1px solid #000000;
